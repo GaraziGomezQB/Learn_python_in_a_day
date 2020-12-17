@@ -1,3 +1,3 @@
 # Learn_python_in_a_day
 
-This is my first line.
+A course to teach people with no coding background the basics of coding and Python. 
